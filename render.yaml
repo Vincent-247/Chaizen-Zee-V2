@@ -1,9 +1,9 @@
-# Exported from Render on 2024-03-24T05:35:04Z
+# Exported from Render on 2025-01-5T08:16:04Z
 services:
 - type: web
-  name: Yanzurabov2-blue45
-  runtime: static
-  repo: https://github.com/ZephyrusFrost/Yanzurabov2
+  name: Chaizen-Zee-V2
+  runtime: Web service
+  repo: https://github.com/Vincent-247/Chaizen-Zee-V2
   branch: main
   buildCommand: npm install && node index.js
   staticPublishPath: npm start
