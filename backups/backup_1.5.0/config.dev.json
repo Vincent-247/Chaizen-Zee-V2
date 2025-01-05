@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "botsrandom38@gmail.com",
-    "password": "botsrandom14",
+    "email": "vincentarmenion240@gmail.com",
+    "password": "DEVELOPER PROGRAMMER",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -19,17 +19,17 @@
   "adminBot": [
     "",
     "",
-    "100094057788874",
-    "100082741664058",
-    "100088275903520"
+    "100090775159086",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "^°anna°^",
-  "prefix": "•",
+  "nickNameBot": "『=』➡︎ 『 Ｏｗｎｅｒ 』 𝕮𝖍𝖆𝖎𝖟𝖊𝖓 𝕲𝖔𝖆𝖙𝖇𝖔𝖙𝗩𝟮",
+  "prefix": "=",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -40,7 +40,7 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "botrandom68@gmail.com",
+      "email": "vincentarmenion240@gmail.com",
       "clientId": "914940073262-lprnrmucqgul2moqvek1gcnv0jjfjg51.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04jwAP8S-wivFCgYIARAAGAQSNwF-L9IrkH1K0_4vRnUvu1GKSQkthm00gBJw3W_Doco-u97iArjCX8zM8wOhPTxeYGISDtvypOE",
